@@ -1,10 +1,10 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-22T16:57:47.561Z",
+    "last_updated": "2026-08-23T16:58:56.714Z",
     "original_repository": "d-tsuji/awesome-go-orms",
     "original_repository_id": 234015868,
-    "original_repository_sha": "12f353c12bacf71b18ff732ecb422a3010090ca6",
+    "original_repository_sha": "b63a3cdf601044f4d8978a7f60e281aa06f97423",
     "enhanced_repository": "enhansome/enhansome-go-orms",
     "enhanced_repository_description": null,
     "title": "Awesome Top Go ORMs with stars"
