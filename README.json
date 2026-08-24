@@ -60,7 +60,7 @@
             "last_commit": "2024-08-15T16:19:19Z",
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17725
+            "stars": 17724
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-06T20:22:40Z",
             "owner": "ent",
             "repo": "ent",
-            "stars": 17173
+            "stars": 17174
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:53.196Z",
+    "last_updated": "2026-08-24T17:13:51.513Z",
     "original_repository": "d-tsuji/awesome-go-orms",
     "original_repository_id": 234015868,
     "original_repository_sha": "b63a3cdf601044f4d8978a7f60e281aa06f97423",
