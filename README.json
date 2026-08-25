@@ -15,7 +15,7 @@
             "last_commit": "2026-06-25T07:21:11Z",
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39924
+            "stars": 39925
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-28T13:42:19Z",
             "owner": "beego",
             "repo": "beego",
-            "stars": 32414
+            "stars": 32413
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T10:02:57Z",
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18201
+            "stars": 18203
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-08-15T16:19:19Z",
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17724
+            "stars": 17725
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-06T20:22:40Z",
             "owner": "ent",
             "repo": "ent",
-            "stars": 17174
+            "stars": 17175
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T14:17:15Z",
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4939
+            "stars": 4940
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-22T09:44:15Z",
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3781
+            "stars": 3782
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-17T12:38:33Z",
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1775
+            "stars": 1776
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 120672428,
             "language": "Go",
-            "last_commit": "2026-08-20T19:48:10Z",
+            "last_commit": "2026-08-24T19:35:11Z",
             "owner": "gobuffalo",
             "repo": "pop",
             "stars": 1515
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:13:51.513Z",
+    "last_updated": "2026-08-25T06:11:30.786Z",
     "original_repository": "d-tsuji/awesome-go-orms",
     "original_repository_id": 234015868,
     "original_repository_sha": "b63a3cdf601044f4d8978a7f60e281aa06f97423",
