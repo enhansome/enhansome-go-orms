@@ -15,7 +15,7 @@
             "last_commit": "2026-06-25T07:21:11Z",
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39926
+            "stars": 39928
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 3577919,
             "language": "Go",
-            "last_commit": "2026-07-28T13:42:19Z",
+            "last_commit": "2026-08-26T02:02:44Z",
             "owner": "beego",
             "repo": "beego",
-            "stars": 32412
+            "stars": 32414
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 193160679,
             "language": "Go",
-            "last_commit": "2026-08-24T10:02:57Z",
+            "last_commit": "2026-08-26T10:02:58Z",
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18203
+            "stars": 18202
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-06T20:22:40Z",
             "owner": "ent",
             "repo": "ent",
-            "stars": 17175
+            "stars": 17173
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T14:17:15Z",
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4940
+            "stars": 4941
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-22T09:44:15Z",
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3782
+            "stars": 3781
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-17T12:38:33Z",
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1776
+            "stars": 1777
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 132417341,
             "language": "Go",
-            "last_commit": "2026-08-21T11:33:22Z",
+            "last_commit": "2026-08-26T11:36:44Z",
             "owner": "mei-rune",
             "repo": "GoBatis",
             "stars": 117
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:13:22.676Z",
+    "last_updated": "2026-08-26T18:21:24.265Z",
     "original_repository": "d-tsuji/awesome-go-orms",
     "original_repository_id": 234015868,
     "original_repository_sha": "b63a3cdf601044f4d8978a7f60e281aa06f97423",
