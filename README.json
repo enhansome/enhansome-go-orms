@@ -15,7 +15,7 @@
             "last_commit": "2026-06-25T07:21:11Z",
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39928
+            "stars": 39933
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T02:02:44Z",
             "owner": "beego",
             "repo": "beego",
-            "stars": 32414
+            "stars": 32415
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 193160679,
             "language": "Go",
-            "last_commit": "2026-08-26T10:02:58Z",
+            "last_commit": "2026-08-27T08:21:33Z",
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18202
+            "stars": 18204
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-06T20:22:40Z",
             "owner": "ent",
             "repo": "ent",
-            "stars": 17173
+            "stars": 17176
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-22T09:44:15Z",
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3781
+            "stars": 3782
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 120672428,
             "language": "Go",
-            "last_commit": "2026-08-24T19:35:11Z",
+            "last_commit": "2026-08-26T20:43:33Z",
             "owner": "gobuffalo",
             "repo": "pop",
             "stars": 1515
@@ -473,9 +473,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:21:24.265Z",
-    "original_repository": "d-tsuji/awesome-go-orms",
-    "original_repository_id": 234015868,
+    "last_updated": "2026-08-27T11:41:51.136Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 234015868,
+      "language": "Go",
+      "last_commit": "2026-08-23T01:20:36Z",
+      "owner": "d-tsuji",
+      "repo": "awesome-go-orms",
+      "stars": 654
+    },
     "original_repository_sha": "b63a3cdf601044f4d8978a7f60e281aa06f97423",
     "enhanced_repository": "enhansome/enhansome-go-orms",
     "enhanced_repository_description": null,
