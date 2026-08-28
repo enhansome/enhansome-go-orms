@@ -42,10 +42,10 @@
             "archived": false,
             "id": 193160679,
             "language": "Go",
-            "last_commit": "2026-08-27T08:21:33Z",
+            "last_commit": "2026-08-27T22:18:56Z",
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18204
+            "stars": 18207
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-06T20:22:40Z",
             "owner": "ent",
             "repo": "ent",
-            "stars": 17176
+            "stars": 17177
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-21T14:17:15Z",
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4941
+            "stars": 4944
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:51.136Z",
+    "last_updated": "2026-08-28T01:07:33.980Z",
     "original_repository_info": {
       "archived": false,
       "id": 234015868,
