@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+            "homepage": "https://gorm.io",
             "id": 13855476,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-25T07:21:11Z",
+            "open_issues": 522,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39934
+            "stars": 39934,
+            "topics": [
+              "go",
+              "golang",
+              "gorm",
+              "orm",
+              "web"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -26,12 +37,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+            "homepage": null,
             "id": 3577919,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T02:02:44Z",
+            "open_issues": 21,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32415
+            "stars": 32415,
+            "topics": [
+              "beego",
+              "go"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -42,12 +61,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate type-safe code from SQL",
+            "homepage": "https://sqlc.dev",
             "id": 193160679,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:21:32Z",
+            "open_issues": 687,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18212
+            "stars": 18212,
+            "topics": [
+              "code-generator",
+              "go",
+              "kotlin",
+              "mysql",
+              "orm",
+              "postgresql",
+              "python",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -58,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "general purpose extensions to golang's database/sql",
+            "homepage": "http://jmoiron.github.io/sqlx/",
             "id": 7877397,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-08-15T16:19:19Z",
+            "open_issues": 394,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17723
+            "stars": 17723,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -74,12 +113,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An entity framework for Go",
+            "homepage": "https://entgo.io",
             "id": 191655189,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T20:22:40Z",
+            "open_issues": 620,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17177
+            "stars": 17177,
+            "topics": [
+              "ent",
+              "entity-framework",
+              "orm"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -90,12 +138,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a Go ORM tailored to your database schema.",
+            "homepage": null,
             "id": 52193726,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-12T21:57:05Z",
+            "open_issues": 107,
             "owner": "aarondl",
             "repo": "sqlboiler",
-            "stars": 6991
+            "stars": 6991,
+            "topics": [
+              "database",
+              "go",
+              "golang",
+              "mssql",
+              "mysql",
+              "orm",
+              "postgres",
+              "postgresql",
+              "sqlboiler",
+              "sqlite3"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -106,12 +170,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm",
+            "homepage": null,
             "id": 9950667,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-04-03T01:12:12Z",
+            "open_issues": 305,
             "owner": "go-xorm",
             "repo": "xorm",
-            "stars": 6622
+            "stars": 6622,
+            "topics": [
+              "golang",
+              "mssql",
+              "mysql",
+              "orm",
+              "postgres",
+              "postgresql",
+              "sqlite",
+              "tidb"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -122,12 +200,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang ORM with focus on PostgreSQL features and performance",
+            "homepage": "https://pg.uptrace.dev/",
             "id": 9646845,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-10T14:43:19Z",
+            "open_issues": 124,
             "owner": "go-pg",
             "repo": "pg",
-            "stars": 5784
+            "stars": 5784,
+            "topics": [
+              "database",
+              "go",
+              "golang",
+              "hstore",
+              "jsonb",
+              "orm",
+              "postgresql",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -138,12 +230,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL-first Golang ORM",
+            "homepage": "https://bun.uptrace.dev",
             "id": 363910063,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-21T14:17:15Z",
+            "open_issues": 43,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4944
+            "stars": 4944,
+            "topics": [
+              "database",
+              "go",
+              "golang",
+              "mssql",
+              "mysql",
+              "oracle",
+              "orm",
+              "postgresql",
+              "sql",
+              "sqlite",
+              "sqlite3"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -154,12 +263,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server",
+            "homepage": null,
             "id": 51139948,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-04T23:22:18Z",
+            "open_issues": 68,
             "owner": "xo",
             "repo": "dbtpl",
-            "stars": 3894
+            "stars": 3894,
+            "topics": [
+              "code-generator",
+              "golang",
+              "microsoft-sql-server",
+              "mysql",
+              "oracle",
+              "orm",
+              "postgresql",
+              "sql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -170,12 +294,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type safe SQL builder with code generation and automatic query result data mapping",
+            "homepage": null,
             "id": 173437670,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T09:44:15Z",
+            "open_issues": 45,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3783
+            "stars": 3783,
+            "topics": [
+              "cockroachdb",
+              "code-completion",
+              "code-generator",
+              "codegenerator",
+              "database",
+              "datamapper",
+              "golang",
+              "mariadb",
+              "mysql",
+              "postgres",
+              "postgresql",
+              "sql",
+              "sql-builder",
+              "sql-queries",
+              "sql-query",
+              "sql-query-builder",
+              "sqlbuilder",
+              "sqlite",
+              "typesafe",
+              "typesafety"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -186,12 +336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go Relational Persistence - an ORM-ish library for Go",
+            "homepage": null,
             "id": 3104806,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-11-19T16:27:48Z",
+            "open_issues": 148,
             "owner": "go-gorp",
             "repo": "gorp",
-            "stars": 3747
+            "stars": 3747,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -202,12 +357,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.",
+            "homepage": "https://upper.io/",
             "id": 13791239,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-06T13:39:47Z",
+            "open_issues": 165,
             "owner": "upper",
             "repo": "db",
-            "stars": 3657
+            "stars": 3657,
+            "topics": [
+              "cockroachdb",
+              "dal",
+              "database",
+              "db",
+              "go",
+              "golang",
+              "mongodb",
+              "mysql",
+              "nosql",
+              "orm",
+              "postgresql",
+              "sql",
+              "sqlite",
+              "upper"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -218,12 +393,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "database to golang struct",
+            "homepage": "https://xxjwxc.github.io/post/gormt/",
             "id": 185033017,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T15:53:33Z",
+            "open_issues": 59,
             "owner": "xxjwxc",
             "repo": "gormt",
-            "stars": 2422
+            "stars": 2422,
+            "topics": [
+              "database",
+              "function",
+              "go",
+              "golang",
+              "gorm",
+              "mapping",
+              "mysql",
+              "orm",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -234,12 +424,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Prisma Client Go is an auto-generated and fully type-safe database client",
+            "homepage": "https://goprisma.org",
             "id": 210595217,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-28T18:07:34Z",
+            "open_issues": 115,
             "owner": "steebchen",
             "repo": "prisma-client-go",
-            "stars": 2278
+            "stars": 2278,
+            "topics": [
+              "database",
+              "go",
+              "golang",
+              "mariadb",
+              "mongodb",
+              "mssql",
+              "mysql",
+              "orm",
+              "postgresql",
+              "prisma",
+              "sql",
+              "sqlite",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -250,12 +459,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite",
+            "homepage": "https://bob.stephenafamo.com",
             "id": 483840331,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:59:05Z",
+            "open_issues": 44,
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1777
+            "stars": 1777,
+            "topics": [
+              "database",
+              "golang",
+              "hacktoberfest",
+              "mysql",
+              "orm",
+              "postgres",
+              "postgresql",
+              "psql",
+              "query-builder",
+              "sql",
+              "sqlite",
+              "sqlite3"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -266,12 +493,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible and powerful SQL string builder library plus a zero-config ORM.",
+            "homepage": "https://pkg.go.dev/github.com/huandu/go-sqlbuilder",
             "id": 115539456,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T12:25:50Z",
+            "open_issues": 3,
             "owner": "huandu",
             "repo": "go-sqlbuilder",
-            "stars": 1726
+            "stars": 1726,
+            "topics": [
+              "database",
+              "go",
+              "hiveql",
+              "lightweight",
+              "mysql",
+              "orm",
+              "postgresql",
+              "sql",
+              "sql-builder",
+              "sqlite",
+              "sqlx",
+              "well-tested"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -282,12 +527,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tasty Treat For All Your Database Needs",
+            "homepage": null,
             "id": 120672428,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:43:33Z",
+            "open_issues": 93,
             "owner": "gobuffalo",
             "repo": "pop",
-            "stars": 1515
+            "stars": 1516,
+            "topics": [
+              "cockroachdb",
+              "database",
+              "gobuffalo",
+              "migrations",
+              "mysql",
+              "orm",
+              "postgresql",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -298,12 +557,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better ORM for Go, based on non-empty interfaces and code generation.",
+            "homepage": "https://gopkg.in/reform.v1",
             "id": 52513524,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-15T13:01:05Z",
+            "open_issues": 88,
             "owner": "go-reform",
             "repo": "reform",
-            "stars": 1458
+            "stars": 1458,
+            "topics": [
+              "go",
+              "golang",
+              "hacktoberfest",
+              "orm",
+              "sql",
+              "sql-orm"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -314,12 +585,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":gem: Modern ORM for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API",
+            "homepage": "https://go-rel.github.io/",
             "id": 213123477,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:48:04Z",
+            "open_issues": 34,
             "owner": "go-rel",
             "repo": "rel",
-            "stars": 786
+            "stars": 786,
+            "topics": [
+              "database",
+              "database-migration",
+              "golang",
+              "hacktoberfest",
+              "help-wanted",
+              "mysql",
+              "orm",
+              "postgresql",
+              "repository-pattern",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -330,12 +617,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "100% type-safe ORM for Go (Golang) with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support. GORM under the hood.",
+            "homepage": null,
             "id": 102281899,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-02-24T17:51:07Z",
+            "open_issues": 20,
             "owner": "jirfag",
             "repo": "go-queryset",
-            "stars": 728
+            "stars": 728,
+            "topics": [
+              "codegenerator",
+              "go",
+              "golang",
+              "gorm",
+              "orm",
+              "queryset",
+              "typesafe"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -346,12 +646,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QBS stands for Query By Struct. A Go ORM.",
+            "homepage": null,
             "id": 7972241,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-04-18T01:16:08Z",
+            "open_issues": 10,
             "owner": "coocood",
             "repo": "qbs",
-            "stars": 542
+            "stars": 542,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -362,12 +667,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate type-safe Go for any Postgres query. If Postgres can run the query, pggen can generate code for it.",
+            "homepage": null,
             "id": 330568713,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-03-14T05:00:28Z",
+            "open_issues": 23,
             "owner": "jschaf",
             "repo": "pggen",
-            "stars": 318
+            "stars": 318,
+            "topics": [
+              "orm",
+              "postgres",
+              "query-compiler",
+              "sql-queries"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -378,12 +693,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazing-fast datastore and querying engine for Go built on Redis.",
+            "homepage": null,
             "id": 11463545,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-02-02T20:22:29Z",
+            "open_issues": 2,
             "owner": "albrow",
             "repo": "zoom",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "go",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -394,12 +717,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database access layer for golang",
+            "homepage": "https://fs02.github.io/grimoire",
             "id": 123949959,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-10-25T23:52:11Z",
+            "open_issues": 0,
             "owner": "Fs02",
             "repo": "grimoire",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "changeset",
+              "database",
+              "golang",
+              "mysql",
+              "orm",
+              "postgres",
+              "sqlite3",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -410,12 +747,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy ORM tool for Golang, support MyBatis-Like XML template SQL",
+            "homepage": "https://mei-rune.github.io/GoBatis",
             "id": 132417341,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-08-26T11:36:44Z",
+            "open_issues": 1,
             "owner": "mei-rune",
             "repo": "GoBatis",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "golang",
+              "mybatis",
+              "orm",
+              "orm-framework"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -426,12 +773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and fast Redis backed key-value store library for Go",
+            "homepage": null,
             "id": 32673998,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2017-02-23T15:11:42Z",
+            "open_issues": 1,
             "owner": "gosuri",
             "repo": "go-store",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -442,12 +794,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "golang generator for type-safe sql api constructs",
+            "homepage": null,
             "id": 103657319,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-08-18T14:11:11Z",
+            "open_issues": 2,
             "owner": "dadleyy",
             "repo": "marlow",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "generator",
+              "golang",
+              "golang-library",
+              "golang-tools",
+              "orm",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -458,12 +822,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Golang ORM",
+            "homepage": "https://beeorm.io",
             "id": 386264288,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-22T07:56:01Z",
+            "open_issues": 3,
             "owner": "latolukasz",
             "repo": "beeorm",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "go",
+              "golang",
+              "mysql",
+              "orm",
+              "redis"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -474,12 +849,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Go ORM for Google/Firebase Cloud Firestore",
+            "homepage": null,
             "id": 160373717,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-12-13T23:52:18Z",
+            "open_issues": 0,
             "owner": "jschoedt",
             "repo": "go-firestorm",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "firebase",
+              "firestore",
+              "go",
+              "go-module",
+              "golang",
+              "google",
+              "orm",
+              "orm-framework"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         },
@@ -490,12 +879,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Light Object-Relational Environment (LORE) provides a simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go",
+            "homepage": null,
             "id": 89762390,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2017-10-21T18:26:41Z",
+            "open_issues": 0,
             "owner": "abrahambotros",
             "repo": "lore",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "database",
+              "db",
+              "go",
+              "golang",
+              "light",
+              "orm",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
         }
@@ -504,15 +906,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:41:39.794Z",
+    "last_updated": "2026-08-29T04:38:28.041Z",
     "original_repository_info": {
       "archived": false,
+      "description": "ORMs for Go, most starred on GitHub.",
+      "homepage": null,
       "id": 234015868,
       "language": "Go",
+      "license": "MIT",
       "last_commit": "2026-08-23T01:20:36Z",
+      "open_issues": 7,
       "owner": "d-tsuji",
       "repo": "awesome-go-orms",
-      "stars": 654
+      "stars": 654,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "go",
+        "orm",
+        "orms",
+        "ranking",
+        "stars"
+      ]
     },
     "original_repository_sha": "b63a3cdf601044f4d8978a7f60e281aa06f97423",
     "enhanced_repository": "enhansome/enhansome-go-orms",
