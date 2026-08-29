@@ -15,8 +15,9 @@
             "last_commit": "2026-06-25T07:21:11Z",
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39933
-          }
+            "stars": 39934
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "beego",
             "repo": "beego",
             "stars": 32415
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 193160679,
             "language": "Go",
-            "last_commit": "2026-08-27T22:18:56Z",
+            "last_commit": "2026-08-28T21:21:32Z",
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18207
-          }
+            "stars": 18212
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-08-15T16:19:19Z",
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17724
-          }
+            "stars": 17723
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ent",
             "repo": "ent",
             "stars": 17177
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "aarondl",
             "repo": "sqlboiler",
             "stars": 6991
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "go-xorm",
             "repo": "xorm",
             "stars": 6622
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "go-pg",
             "repo": "pg",
             "stars": 5784
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "uptrace",
             "repo": "bun",
             "stars": 4944
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "xo",
             "repo": "dbtpl",
             "stars": 3894
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2026-08-22T09:44:15Z",
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3782
-          }
+            "stars": 3783
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "go-gorp",
             "repo": "gorp",
             "stars": 3747
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "upper",
             "repo": "db",
             "stars": 3657
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "xxjwxc",
             "repo": "gormt",
             "stars": 2422
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "steebchen",
             "repo": "prisma-client-go",
             "stars": 2278
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -237,11 +252,12 @@
             "archived": false,
             "id": 483840331,
             "language": "Go",
-            "last_commit": "2026-08-17T12:38:33Z",
+            "last_commit": "2026-08-28T16:59:05Z",
             "owner": "stephenafamo",
             "repo": "bob",
             "stars": 1777
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "huandu",
             "repo": "go-sqlbuilder",
             "stars": 1726
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "gobuffalo",
             "repo": "pop",
             "stars": 1515
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "go-reform",
             "repo": "reform",
             "stars": 1458
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "go-rel",
             "repo": "rel",
             "stars": 786
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "jirfag",
             "repo": "go-queryset",
             "stars": 728
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "coocood",
             "repo": "qbs",
             "stars": 542
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "jschaf",
             "repo": "pggen",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "albrow",
             "repo": "zoom",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "Fs02",
             "repo": "grimoire",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "mei-rune",
             "repo": "GoBatis",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "gosuri",
             "repo": "go-store",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "dadleyy",
             "repo": "marlow",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "latolukasz",
             "repo": "beeorm",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "jschoedt",
             "repo": "go-firestorm",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         },
         {
           "node_type": "item",
@@ -466,14 +496,15 @@
             "owner": "abrahambotros",
             "repo": "lore",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:41:39.794Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:07:33.980Z",
+    "last_updated": "2026-08-29T00:41:39.794Z",
     "original_repository_info": {
       "archived": false,
       "id": 234015868,
