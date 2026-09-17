@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T16:21:15Z",
-            "open_issues": 534,
+            "open_issues": 536,
             "owner": "go-gorm",
             "repo": "gorm",
             "stars": 39959,
@@ -42,8 +42,8 @@
             "id": 3577919,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T13:43:49Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-17T01:43:56Z",
+            "open_issues": 22,
             "owner": "beego",
             "repo": "beego",
             "stars": 32423,
@@ -66,11 +66,11 @@
             "id": 193160679,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-13T21:59:41Z",
+            "last_commit": "2026-09-17T06:17:57Z",
             "open_issues": 683,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18297,
+            "stars": 18300,
             "topics": [
               "code-generator",
               "go",
@@ -122,7 +122,7 @@
             "open_issues": 623,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17199,
+            "stars": 17198,
             "topics": [
               "ent",
               "entity-framework",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-21T14:17:15Z",
-            "open_issues": 39,
+            "open_issues": 37,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4975,
+            "stars": 4976,
             "topics": [
               "database",
               "go",
@@ -303,7 +303,7 @@
             "open_issues": 45,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3801,
+            "stars": 3802,
             "topics": [
               "cockroachdb",
               "code-completion",
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "huandu",
             "repo": "go-sqlbuilder",
-            "stars": 1729,
+            "stars": 1731,
             "topics": [
               "database",
               "go",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:41:06.470Z",
+    "last_updated": "2026-09-17T19:50:34.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
