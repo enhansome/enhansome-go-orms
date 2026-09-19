@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T16:21:15Z",
-            "open_issues": 536,
+            "open_issues": 537,
             "owner": "go-gorm",
             "repo": "gorm",
             "stars": 39957,
@@ -43,10 +43,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-17T01:43:56Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32425,
+            "stars": 32424,
             "topics": [
               "beego",
               "go"
@@ -66,11 +66,11 @@
             "id": 193160679,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:59:49Z",
+            "last_commit": "2026-09-19T13:23:21Z",
             "open_issues": 684,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18302,
+            "stars": 18304,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 395,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17736,
+            "stars": 17738,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -122,7 +122,7 @@
             "open_issues": 624,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17196,
+            "stars": 17198,
             "topics": [
               "ent",
               "entity-framework",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-21T14:17:15Z",
-            "open_issues": 38,
+            "open_issues": 35,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4976,
+            "stars": 4974,
             "topics": [
               "database",
               "go",
@@ -272,7 +272,7 @@
             "open_issues": 70,
             "owner": "xo",
             "repo": "dbtpl",
-            "stars": 3895,
+            "stars": 3896,
             "topics": [
               "code-generator",
               "golang",
@@ -366,7 +366,7 @@
             "open_issues": 165,
             "owner": "upper",
             "repo": "db",
-            "stars": 3657,
+            "stars": 3656,
             "topics": [
               "cockroachdb",
               "dal",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:11:01.770Z",
+    "last_updated": "2026-09-19T18:53:12.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
