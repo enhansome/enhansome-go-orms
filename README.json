@@ -19,7 +19,7 @@
             "open_issues": 537,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39962,
+            "stars": 39963,
             "topics": [
               "go",
               "golang",
@@ -70,7 +70,7 @@
             "open_issues": 686,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18310,
+            "stars": 18315,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 395,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17739,
+            "stars": 17741,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -239,7 +239,7 @@
             "open_issues": 36,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4975,
+            "stars": 4976,
             "topics": [
               "database",
               "go",
@@ -502,7 +502,7 @@
             "open_issues": 3,
             "owner": "huandu",
             "repo": "go-sqlbuilder",
-            "stars": 1731,
+            "stars": 1732,
             "topics": [
               "database",
               "go",
@@ -566,7 +566,7 @@
             "open_issues": 88,
             "owner": "go-reform",
             "repo": "reform",
-            "stars": 1457,
+            "stars": 1456,
             "topics": [
               "go",
               "golang",
@@ -594,7 +594,7 @@
             "open_issues": 33,
             "owner": "go-rel",
             "repo": "rel",
-            "stars": 786,
+            "stars": 787,
             "topics": [
               "database",
               "database-migration",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:34:30.251Z",
+    "last_updated": "2026-09-22T19:52:31.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
