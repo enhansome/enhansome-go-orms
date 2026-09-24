@@ -19,7 +19,7 @@
             "open_issues": 537,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39963,
+            "stars": 39966,
             "topics": [
               "go",
               "golang",
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32426,
+            "stars": 32427,
             "topics": [
               "beego",
               "go"
@@ -67,10 +67,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-21T10:02:56Z",
-            "open_issues": 689,
+            "open_issues": 692,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18317,
+            "stars": 18320,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 395,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17742,
+            "stars": 17743,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -119,10 +119,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T06:08:27Z",
-            "open_issues": 625,
+            "open_issues": 626,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17202,
+            "stars": 17204,
             "topics": [
               "ent",
               "entity-framework",
@@ -209,7 +209,7 @@
             "open_issues": 124,
             "owner": "go-pg",
             "repo": "pg",
-            "stars": 5782,
+            "stars": 5783,
             "topics": [
               "database",
               "go",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-23T08:19:35Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4977,
+            "stars": 4980,
             "topics": [
               "database",
               "go",
@@ -272,7 +272,7 @@
             "open_issues": 70,
             "owner": "xo",
             "repo": "dbtpl",
-            "stars": 3898,
+            "stars": 3899,
             "topics": [
               "code-generator",
               "golang",
@@ -303,7 +303,7 @@
             "open_issues": 45,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3802,
+            "stars": 3804,
             "topics": [
               "cockroachdb",
               "code-completion",
@@ -345,7 +345,7 @@
             "open_issues": 148,
             "owner": "go-gorp",
             "repo": "gorp",
-            "stars": 3744,
+            "stars": 3745,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -366,7 +366,7 @@
             "open_issues": 165,
             "owner": "upper",
             "repo": "db",
-            "stars": 3656,
+            "stars": 3657,
             "topics": [
               "cockroachdb",
               "dal",
@@ -402,7 +402,7 @@
             "open_issues": 60,
             "owner": "xxjwxc",
             "repo": "gormt",
-            "stars": 2423,
+            "stars": 2424,
             "topics": [
               "database",
               "function",
@@ -468,7 +468,7 @@
             "open_issues": 52,
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1782,
+            "stars": 1783,
             "topics": [
               "database",
               "golang",
@@ -536,7 +536,7 @@
             "open_issues": 93,
             "owner": "gobuffalo",
             "repo": "pop",
-            "stars": 1525,
+            "stars": 1526,
             "topics": [
               "cockroachdb",
               "database",
@@ -591,7 +591,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-07T00:46:54Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "go-rel",
             "repo": "rel",
             "stars": 787,
@@ -626,7 +626,7 @@
             "open_issues": 20,
             "owner": "jirfag",
             "repo": "go-queryset",
-            "stars": 728,
+            "stars": 729,
             "topics": [
               "codegenerator",
               "go",
@@ -756,7 +756,7 @@
             "open_issues": 1,
             "owner": "mei-rune",
             "repo": "GoBatis",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "golang",
               "mybatis",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:47:57.167Z",
+    "last_updated": "2026-09-24T20:07:09.824Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
