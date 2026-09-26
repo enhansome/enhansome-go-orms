@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T16:21:15Z",
-            "open_issues": 539,
+            "open_issues": 540,
             "owner": "go-gorm",
             "repo": "gorm",
             "stars": 39967,
@@ -46,7 +46,7 @@
             "open_issues": 19,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32428,
+            "stars": 32429,
             "topics": [
               "beego",
               "go"
@@ -66,11 +66,11 @@
             "id": 193160679,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-21T10:02:56Z",
+            "last_commit": "2026-09-26T13:25:25Z",
             "open_issues": 692,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18324,
+            "stars": 18326,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 395,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17744,
+            "stars": 17745,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -236,7 +236,7 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-23T08:19:35Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "uptrace",
             "repo": "bun",
             "stars": 4980,
@@ -303,7 +303,7 @@
             "open_issues": 45,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3807,
+            "stars": 3808,
             "topics": [
               "cockroachdb",
               "code-completion",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:07:24.050Z",
+    "last_updated": "2026-09-26T19:22:27.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
