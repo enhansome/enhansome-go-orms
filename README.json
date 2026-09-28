@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T16:21:15Z",
-            "open_issues": 540,
+            "open_issues": 541,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39969,
+            "stars": 39972,
             "topics": [
               "go",
               "golang",
@@ -43,10 +43,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T01:42:16Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32427,
+            "stars": 32428,
             "topics": [
               "beego",
               "go"
@@ -70,7 +70,7 @@
             "open_issues": 692,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18327,
+            "stars": 18329,
             "topics": [
               "code-generator",
               "go",
@@ -122,7 +122,7 @@
             "open_issues": 626,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17205,
+            "stars": 17206,
             "topics": [
               "ent",
               "entity-framework",
@@ -303,7 +303,7 @@
             "open_issues": 45,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3809,
+            "stars": 3810,
             "topics": [
               "cockroachdb",
               "code-completion",
@@ -366,7 +366,7 @@
             "open_issues": 165,
             "owner": "upper",
             "repo": "db",
-            "stars": 3657,
+            "stars": 3658,
             "topics": [
               "cockroachdb",
               "dal",
@@ -402,7 +402,7 @@
             "open_issues": 60,
             "owner": "xxjwxc",
             "repo": "gormt",
-            "stars": 2424,
+            "stars": 2425,
             "topics": [
               "database",
               "function",
@@ -752,7 +752,7 @@
             "id": 132417341,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-08-26T11:36:44Z",
+            "last_commit": "2026-09-28T03:58:03Z",
             "open_issues": 1,
             "owner": "mei-rune",
             "repo": "GoBatis",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:52:01.049Z",
+    "last_updated": "2026-09-28T22:16:15.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
