@@ -19,7 +19,7 @@
             "open_issues": 542,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39973,
+            "stars": 39974,
             "topics": [
               "go",
               "golang",
@@ -42,11 +42,11 @@
             "id": 3577919,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T01:42:16Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-03T01:46:52Z",
+            "open_issues": 16,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32427,
+            "stars": 32426,
             "topics": [
               "beego",
               "go"
@@ -67,7 +67,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-01T12:00:58Z",
-            "open_issues": 695,
+            "open_issues": 696,
             "owner": "sqlc-dev",
             "repo": "sqlc",
             "stars": 18343,
@@ -239,7 +239,7 @@
             "open_issues": 34,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4984,
+            "stars": 4985,
             "topics": [
               "database",
               "go",
@@ -402,7 +402,7 @@
             "open_issues": 60,
             "owner": "xxjwxc",
             "repo": "gormt",
-            "stars": 2424,
+            "stars": 2425,
             "topics": [
               "database",
               "function",
@@ -499,7 +499,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-21T12:25:50Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "huandu",
             "repo": "go-sqlbuilder",
             "stars": 1732,
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:57:31.187Z",
+    "last_updated": "2026-10-03T04:51:28.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
