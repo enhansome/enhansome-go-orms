@@ -70,7 +70,7 @@
             "open_issues": 697,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18346,
+            "stars": 18347,
             "topics": [
               "code-generator",
               "go",
@@ -239,7 +239,7 @@
             "open_issues": 33,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4983,
+            "stars": 4984,
             "topics": [
               "database",
               "go",
@@ -300,7 +300,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T10:24:28Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "go-jet",
             "repo": "jet",
             "stars": 3814,
@@ -362,8 +362,8 @@
             "id": 13791239,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-05T18:07:30Z",
-            "open_issues": 165,
+            "last_commit": "2026-10-06T17:37:01Z",
+            "open_issues": 166,
             "owner": "upper",
             "repo": "db",
             "stars": 3657,
@@ -465,10 +465,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-06T01:29:44Z",
-            "open_issues": 52,
+            "open_issues": 51,
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1786,
+            "stars": 1788,
             "topics": [
               "database",
               "golang",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:34.071Z",
+    "last_updated": "2026-10-06T21:13:11.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
