@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-14T16:21:15Z",
-            "open_issues": 551,
+            "open_issues": 552,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39974,
+            "stars": 39976,
             "topics": [
               "go",
               "golang",
@@ -46,7 +46,7 @@
             "open_issues": 21,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32425,
+            "stars": 32426,
             "topics": [
               "beego",
               "go"
@@ -67,10 +67,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-15T19:53:56Z",
-            "open_issues": 695,
+            "open_issues": 697,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18384,
+            "stars": 18386,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 396,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17739,
+            "stars": 17740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -209,7 +209,7 @@
             "open_issues": 124,
             "owner": "go-pg",
             "repo": "pg",
-            "stars": 5776,
+            "stars": 5777,
             "topics": [
               "database",
               "go",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-03T11:14:54Z",
-            "open_issues": 38,
+            "open_issues": 41,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4991,
+            "stars": 4992,
             "topics": [
               "database",
               "go",
@@ -303,7 +303,7 @@
             "open_issues": 46,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3819,
+            "stars": 3820,
             "topics": [
               "cockroachdb",
               "code-completion",
@@ -342,7 +342,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-11-19T16:27:48Z",
-            "open_issues": 148,
+            "open_issues": 147,
             "owner": "go-gorp",
             "repo": "gorp",
             "stars": 3742,
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:01:18.657Z",
+    "last_updated": "2026-10-16T19:41:50.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
