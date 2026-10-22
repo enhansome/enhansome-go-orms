@@ -19,7 +19,7 @@
             "open_issues": 554,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39982,
+            "stars": 39981,
             "topics": [
               "go",
               "golang",
@@ -46,7 +46,7 @@
             "open_issues": 24,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32429,
+            "stars": 32430,
             "topics": [
               "beego",
               "go"
@@ -66,8 +66,8 @@
             "id": 193160679,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-21T03:38:25Z",
-            "open_issues": 695,
+            "last_commit": "2026-10-22T10:06:05Z",
+            "open_issues": 696,
             "owner": "sqlc-dev",
             "repo": "sqlc",
             "stars": 18401,
@@ -98,7 +98,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-08-15T16:19:19Z",
-            "open_issues": 396,
+            "open_issues": 397,
             "owner": "jmoiron",
             "repo": "sqlx",
             "stars": 17736,
@@ -122,7 +122,7 @@
             "open_issues": 631,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17208,
+            "stars": 17209,
             "topics": [
               "ent",
               "entity-framework",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-03T11:14:54Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 4999,
+            "stars": 5000,
             "topics": [
               "database",
               "go",
@@ -468,7 +468,7 @@
             "open_issues": 57,
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1794,
+            "stars": 1795,
             "topics": [
               "database",
               "golang",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:20:58.020Z",
+    "last_updated": "2026-10-22T20:17:12.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
