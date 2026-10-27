@@ -19,7 +19,7 @@
             "open_issues": 559,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39986,
+            "stars": 39985,
             "topics": [
               "go",
               "golang",
@@ -70,7 +70,7 @@
             "open_issues": 708,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18413,
+            "stars": 18417,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 397,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17740,
+            "stars": 17738,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -206,7 +206,7 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-10T14:43:19Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "go-pg",
             "repo": "pg",
             "stars": 5778,
@@ -239,7 +239,7 @@
             "open_issues": 50,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 5003,
+            "stars": 5002,
             "topics": [
               "database",
               "go",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:10:58.437Z",
+    "last_updated": "2026-10-27T20:57:47.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
