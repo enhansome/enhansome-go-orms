@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-24T07:00:16Z",
-            "open_issues": 559,
+            "open_issues": 558,
             "owner": "go-gorm",
             "repo": "gorm",
             "stars": 39987,
@@ -46,7 +46,7 @@
             "open_issues": 25,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32427,
+            "stars": 32426,
             "topics": [
               "beego",
               "go"
@@ -70,7 +70,7 @@
             "open_issues": 710,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18427,
+            "stars": 18429,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 397,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17738,
+            "stars": 17740,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -119,10 +119,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T06:58:20Z",
-            "open_issues": 631,
+            "open_issues": 632,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17218,
+            "stars": 17219,
             "topics": [
               "ent",
               "entity-framework",
@@ -179,7 +179,7 @@
             "open_issues": 305,
             "owner": "go-xorm",
             "repo": "xorm",
-            "stars": 6613,
+            "stars": 6614,
             "topics": [
               "golang",
               "mssql",
@@ -209,7 +209,7 @@
             "open_issues": 124,
             "owner": "go-pg",
             "repo": "pg",
-            "stars": 5777,
+            "stars": 5778,
             "topics": [
               "database",
               "go",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-29T15:26:38Z",
-            "open_issues": 50,
+            "open_issues": 52,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 5002,
+            "stars": 5005,
             "topics": [
               "database",
               "go",
@@ -272,7 +272,7 @@
             "open_issues": 71,
             "owner": "xo",
             "repo": "dbtpl",
-            "stars": 3898,
+            "stars": 3899,
             "topics": [
               "code-generator",
               "golang",
@@ -303,7 +303,7 @@
             "open_issues": 48,
             "owner": "go-jet",
             "repo": "jet",
-            "stars": 3825,
+            "stars": 3826,
             "topics": [
               "cockroachdb",
               "code-completion",
@@ -402,7 +402,7 @@
             "open_issues": 60,
             "owner": "xxjwxc",
             "repo": "gormt",
-            "stars": 2422,
+            "stars": 2423,
             "topics": [
               "database",
               "function",
@@ -433,7 +433,7 @@
             "open_issues": 115,
             "owner": "steebchen",
             "repo": "prisma-client-go",
-            "stars": 2269,
+            "stars": 2270,
             "topics": [
               "database",
               "go",
@@ -502,7 +502,7 @@
             "open_issues": 4,
             "owner": "huandu",
             "repo": "go-sqlbuilder",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "database",
               "go",
@@ -536,7 +536,7 @@
             "open_issues": 93,
             "owner": "gobuffalo",
             "repo": "pop",
-            "stars": 1525,
+            "stars": 1526,
             "topics": [
               "cockroachdb",
               "database",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:01:33.195Z",
+    "last_updated": "2026-10-31T20:17:11.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
