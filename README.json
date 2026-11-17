@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-24T07:00:16Z",
-            "open_issues": 558,
+            "open_issues": 559,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39989,
+            "stars": 39990,
             "topics": [
               "go",
               "golang",
@@ -43,10 +43,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T22:55:59Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32436,
+            "stars": 32435,
             "topics": [
               "beego",
               "go"
@@ -70,7 +70,7 @@
             "open_issues": 731,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18463,
+            "stars": 18462,
             "topics": [
               "code-generator",
               "go",
@@ -98,10 +98,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-08-15T16:19:19Z",
-            "open_issues": 398,
+            "open_issues": 399,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17742,
+            "stars": 17743,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -119,10 +119,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T06:58:20Z",
-            "open_issues": 634,
+            "open_issues": 635,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17235,
+            "stars": 17236,
             "topics": [
               "ent",
               "entity-framework",
@@ -179,7 +179,7 @@
             "open_issues": 305,
             "owner": "go-xorm",
             "repo": "xorm",
-            "stars": 6610,
+            "stars": 6609,
             "topics": [
               "golang",
               "mssql",
@@ -235,11 +235,11 @@
             "id": 363910063,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-14T06:19:50Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-17T14:36:00Z",
+            "open_issues": 47,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 5004,
+            "stars": 5003,
             "topics": [
               "database",
               "go",
@@ -468,7 +468,7 @@
             "open_issues": 57,
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1806,
+            "stars": 1805,
             "topics": [
               "database",
               "golang",
@@ -532,11 +532,11 @@
             "id": 120672428,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:34:57Z",
-            "open_issues": 95,
+            "last_commit": "2026-11-17T17:18:03Z",
+            "open_issues": 93,
             "owner": "gobuffalo",
             "repo": "pop",
-            "stars": 1527,
+            "stars": 1528,
             "topics": [
               "cockroachdb",
               "database",
@@ -817,33 +817,6 @@
         },
         {
           "node_type": "item",
-          "title": "beeorm",
-          "description": "55 10 3 Golang ORM 2026-07-13 04:35:50",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Golang ORM",
-            "homepage": "https://beeorm.io",
-            "id": 386264288,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-01-22T07:56:01Z",
-            "open_issues": 3,
-            "owner": "latolukasz",
-            "repo": "beeorm",
-            "stars": 55,
-            "topics": [
-              "go",
-              "golang",
-              "mysql",
-              "orm",
-              "redis"
-            ]
-          },
-          "first_seen": "2026-08-29T00:41:39.794Z"
-        },
-        {
-          "node_type": "item",
           "title": "go-firestorm",
           "description": "53 9 0 Simple Go ORM for Google/Firebase Cloud Firestore 2025-08-27 12:18:39",
           "children": [],
@@ -906,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:28:17.276Z",
+    "last_updated": "2026-11-17T23:38:36.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
