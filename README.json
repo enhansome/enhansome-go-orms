@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-24T07:00:16Z",
-            "open_issues": 556,
+            "open_issues": 558,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39991,
+            "stars": 39989,
             "topics": [
               "go",
               "golang",
@@ -46,7 +46,7 @@
             "open_issues": 29,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32437,
+            "stars": 32436,
             "topics": [
               "beego",
               "go"
@@ -70,7 +70,7 @@
             "open_issues": 731,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18459,
+            "stars": 18463,
             "topics": [
               "code-generator",
               "go",
@@ -209,7 +209,7 @@
             "open_issues": 124,
             "owner": "go-pg",
             "repo": "pg",
-            "stars": 5779,
+            "stars": 5780,
             "topics": [
               "database",
               "go",
@@ -236,10 +236,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-14T06:19:50Z",
-            "open_issues": 49,
+            "open_issues": 48,
             "owner": "uptrace",
             "repo": "bun",
-            "stars": 5005,
+            "stars": 5004,
             "topics": [
               "database",
               "go",
@@ -402,7 +402,7 @@
             "open_issues": 60,
             "owner": "xxjwxc",
             "repo": "gormt",
-            "stars": 2424,
+            "stars": 2423,
             "topics": [
               "database",
               "function",
@@ -468,7 +468,7 @@
             "open_issues": 57,
             "owner": "stephenafamo",
             "repo": "bob",
-            "stars": 1805,
+            "stars": 1806,
             "topics": [
               "database",
               "golang",
@@ -532,8 +532,8 @@
             "id": 120672428,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-10T09:35:45Z",
-            "open_issues": 93,
+            "last_commit": "2026-11-16T19:34:57Z",
+            "open_issues": 95,
             "owner": "gobuffalo",
             "repo": "pop",
             "stars": 1527,
@@ -676,7 +676,7 @@
             "open_issues": 22,
             "owner": "jschaf",
             "repo": "pggen",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "orm",
               "postgres",
@@ -906,7 +906,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:15:23.848Z",
+    "last_updated": "2026-11-17T00:28:17.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
