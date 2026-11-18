@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-24T07:00:16Z",
-            "open_issues": 559,
+            "open_issues": 558,
             "owner": "go-gorm",
             "repo": "gorm",
-            "stars": 39990,
+            "stars": 39991,
             "topics": [
               "go",
               "golang",
@@ -43,10 +43,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T22:55:59Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "beego",
             "repo": "beego",
-            "stars": 32435,
+            "stars": 32434,
             "topics": [
               "beego",
               "go"
@@ -67,10 +67,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-14T05:03:12Z",
-            "open_issues": 731,
+            "open_issues": 732,
             "owner": "sqlc-dev",
             "repo": "sqlc",
-            "stars": 18462,
+            "stars": 18469,
             "topics": [
               "code-generator",
               "go",
@@ -101,7 +101,7 @@
             "open_issues": 399,
             "owner": "jmoiron",
             "repo": "sqlx",
-            "stars": 17743,
+            "stars": 17747,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:39.794Z"
@@ -122,7 +122,7 @@
             "open_issues": 635,
             "owner": "ent",
             "repo": "ent",
-            "stars": 17236,
+            "stars": 17237,
             "topics": [
               "ent",
               "entity-framework",
@@ -179,7 +179,7 @@
             "open_issues": 305,
             "owner": "go-xorm",
             "repo": "xorm",
-            "stars": 6609,
+            "stars": 6608,
             "topics": [
               "golang",
               "mssql",
@@ -235,8 +235,8 @@
             "id": 363910063,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-17T14:36:00Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-18T11:52:13Z",
+            "open_issues": 42,
             "owner": "uptrace",
             "repo": "bun",
             "stars": 5003,
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:38:36.808Z",
+    "last_updated": "2026-11-18T23:06:36.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "ORMs for Go, most starred on GitHub.",
